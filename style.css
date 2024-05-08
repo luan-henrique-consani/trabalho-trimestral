@@ -135,7 +135,7 @@ footer .redes a:hover{
         height: auto; /* Altura automática */
         display: flex;
         flex-direction: column;
-        row-gap: 260px;
+        row-gap: 10px;
     }
     .separador{
         display: flex;
