@@ -88,7 +88,7 @@ footer .redes a:hover{
         margin-top: 10px;
         width: 40%; /* Largura ajustada */
     }
-    .separador.white#div1{
+    .separador.white{
         height: auto;
     }
 
@@ -118,7 +118,7 @@ footer .redes a:hover{
         margin-top: 10px;
         width: 80%; /* Largura ajustada */
     }
-    .separador.white#div1{
+    .separador.white{
         height: auto;
     }
 
@@ -142,7 +142,7 @@ footer .redes a:hover{
         flex-direction: column;
 
     }
-    .separador.white#div1{
+    .separador.white{
         height: auto;
     }
     .separador img {
